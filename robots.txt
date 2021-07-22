@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.friv5.io/sitemap.xml
